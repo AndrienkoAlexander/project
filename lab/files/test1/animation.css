@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+
+.timer {
+	margin: auto;
+	text-align: center;
+	margin-top: 150px;
+}
+
+input[type="button"] {
+	margin-bottom: 10px;
+}

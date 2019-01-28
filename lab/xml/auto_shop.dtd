@@ -1,0 +1,11 @@
+<!ELEMENT auto_shop(car)>
+<!ELEMENT car(name, price, serial_num, year, file_name, car_type, gear_box, power)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT price(#PCDATA)>
+<!ELEMENT serial_num(#PCDATA)>
+<!ELEMENT year(#PCDATA)>
+<!ELEMENT file_name(#PCDATA)>
+<!ELEMENT car_type(#PCDATA)>
+<!ELEMENT gear_box(#PCDATA)>
+<!ELEMENT power(#PCDATA)>
+<!ATTLIST car id CDATA #REQUIRED>

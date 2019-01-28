@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE auto_shop SYSTEM "auto_shop.dtd">
+	<auto_shop>
+		<car id="1">
+			<name>Renault Duster</name>
+			<price>22036</price>
+			<serial_num>195436</serial_num>
+			<year>2017</year>
+			<file_name>195436.jpg</file_name>
+			<car_type>Кроссовер</car_type>
+			<gear_box>Автомат</gear_box>
+			<power>467</power>
+		</car>
+
+		<car id="2">
+			<name>Nissan Qashqai</name>
+			<price>28502</price>
+			<serial_num>457652</serial_num>
+			<year>2017</year>
+			<file_name>457652.jpg</file_name>
+			<car_type>Кроссовер</car_type>
+			<gear_box>Типтроник</gear_box>
+			<power>160</power>
+		</car>
+
+		<car id="3">
+			<name>Peugeot 508</name>
+			<price>36678</price>
+			<serial_num>956724</serial_num>
+			<year>2018</year>
+			<file_name>956724.jpg</file_name>
+			<car_type>Лифтбек</car_type>
+			<gear_box>Автомат</gear_box>
+			<power>225</power>
+		</car>
+
+		<car id="4">
+			<name>KIA Ceed</name>
+			<price>22134</price>
+			<serial_num>356967</serial_num>
+			<year>2016</year>
+			<file_name>356967.jpg</file_name>
+			<car_type>Хэтчбек</car_type>
+			<gear_box>Механика</gear_box>
+			<power>140</power>
+		</car>
+
+		<car id="5">
+			<name>Mercedes E-Class Coupe (C238)</name>
+			<price>86049</price>
+			<serial_num>129645</serial_num>
+			<year>2018</year>
+			<file_name>129645.jpg</file_name>
+			<car_type>Купе</car_type>
+			<gear_box>Механика</gear_box>
+			<power>333</power>
+		</car>
+
+		<car id="6">
+			<name>Ford Mustang</name>
+			<price>42579</price>
+			<serial_num>786233</serial_num>
+			<year>2014</year>
+			<file_name>786233.jpg</file_name>
+			<car_type>Купе</car_type>
+			<gear_box>Механика</gear_box>
+			<power>314</power>
+		</car>
+
+		<car id="7">
+			<name>Renault Logan MCV</name>
+			<price>15298</price>
+			<serial_num>876745</serial_num>
+			<year>2017</year>
+			<file_name>876745.jpg</file_name>
+			<car_type>Универсал</car_type>
+			<gear_box>Автомат</gear_box>
+			<power>90</power>
+		</car>
+
+		<car id="8">
+			<name>Toyota Corolla</name>
+			<price>23906</price>
+			<serial_num>967743</serial_num>
+			<year>2016</year>
+			<file_name>967743.jpg</file_name>
+			<car_type>Седан</car_type>
+			<gear_box>Типтроник</gear_box>
+			<power>122</power>
+		</car>
+
+		<car id="9">
+			<name>Jaguar XJ</name>
+			<price>132831</price>
+			<serial_num>765334</serial_num>
+			<year>2015</year>
+			<file_name>765334.jpg</file_name>
+			<car_type>Седан</car_type>
+			<gear_box>Автомат</gear_box>
+			<power>510</power>
+		</car>
+
+		<car id="10">
+			<name>BMW X7 (G07)</name>
+			<price>95932</price>
+			<serial_num>645236</serial_num>
+			<year>2018</year>
+			<file_name>645236.jpg</file_name>
+			<car_type>Кроссовер</car_type>
+			<gear_box>Автомат</gear_box>
+			<power>400</power>
+		</car>
+	</auto_shop>
